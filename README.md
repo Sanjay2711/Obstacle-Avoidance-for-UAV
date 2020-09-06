@@ -6,7 +6,7 @@ obstacles autonomously. The drone takes off and flies in a pre-defined trajector
 reach certain destinations. But it must consider the environment given to it i.e.
 avoid collisions with objects and crashes.
 
-#Workflow :
+##Workflow :
 set segmentation colors.
 calculate the disparity image.
 calculate the depth planner image.
@@ -16,7 +16,7 @@ calculate the segmentation image.
 Apply Image Processing Algorithm.
 Apply Guidance Algorithm.
 
-#Image Processing :
+##Image Processing :
 Every second the algorithm takes a frame/image from the camera on the drone
 from several necessary channels:
 ■ Depth planner image
