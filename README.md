@@ -35,3 +35,5 @@ Contours Detection Algorithm along with the Red Box Finding Algorithm.
 Then each box treated as an object and calculated for each box the distance
 from the drone using the depth images. With the help of these calculations by the
 algorithm the object that has great potential to collide with the drone.
+
+Output Simulation: https://drive.google.com/file/d/1lABHciM4yIInAhSk7jNMTTAYUDZKh3JD/view?usp=sharing
